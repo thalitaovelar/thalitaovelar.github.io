@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Thalita Ovelar Lino",
+    "label": "Freelancer",
+    "picture": "http://i.imgur.com/AabxhKJ.jpg?1",
+    "email": "thalitaovelar@gmail.com",
+    "phone": "(11) 97581-7032",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "04004-030",
+      "city": "São Paulo",
+      "countryCode": "",
+      "region": "SP"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Freelancer",
+      "position": "Maquinadora, Atendente, Hostess, Garçonete e Bartender",
+      "website": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-20",
+      "summary": "Periodo em que me dediquei  para ajudar meus pais e estaudar para vestibulares.",
+      "highlights": [
+        "Maquiadora Freelancer",
+        "Queen’s Head Pub - Atendimento",
+        "Club Glória - Hostess",
+        "Flexx Club - Hostess",
+        "Delícias Gourmet - Garçonete",
+        "Bar da Villa - Bartender",
+        "Finnegan’s Pub - Atendimento"
+      ]
+    },
+    {
+      "company": "Intervalor",
+      "position": "Tele Atendente",
+      "website": "https://www.intervalor.com.br",
+      "startDate": "2014-09-01",
+      "endDate": "2014-12-20",
+      "summary": "Cobrança e negociação de dívidas, cumprimento de metas.",
+      "highlights": []
+    },
+    {
+      "company": "Hot Dog Augusta",
+      "position": "Atendente",
+      "website": "http://hotdogcompany.com.br/",
+      "startDate": "2013-06-01",
+      "endDate": "2014-02-28",
+      "summary": "Atendimento de clientes, preparo de diversas opções de hot dogs gourmet, controle do caixa e manutenção da organização e limpeza do local.",
+      "highlights": []
+    },
+    {
+      "company": "Restaurante Bendita Pasta",
+      "position": "Atendente",
+      "website": "http://www.benditapasta.cl/",
+      "startDate": "2012-10-01",
+      "endDate": "2012-12-20",
+      "summary": "Atendente de mesas com a função de servi-las, indicar os pratos e ofertas aos clientes e manter o ambiente organizado e limpo.",
+      "highlights": []
+    },
+    {
+      "company": "Celene´s Hais",
+      "position": "Produção de Maquiagem e Produção de Penteados",
+      "website": "",
+      "startDate": "2011-08-01",
+      "endDate": "2012-01-31",
+      "summary": "Utilizando técnicas de maquiagem e a utilização de produtos adequados e específicos a cada tipo de pele, traje e ocasião, a proposta do trabalho desempenhado era de valorizar o formato do rosto através de técnicas de luz e sombra, corrigindo pequenas imperfeições, a valorização dos pontos fortes e singulares do cliente.",
+      "highlights": []
+    },
+    {
+      "company": "Oi Telecomunicações",
+      "position": "Atendente de Telemarketing",
+      "website": "http://www.oi.com.br/",
+      "startDate": "2011-06-01",
+      "endDate": "2011-10-31",
+      "summary": "Foi ressponsável pela regularização de contas indevidas, alteração de planos de telefonia e verificação de instalação de internet e linha telefônica.",
+      "highlights": []
+    },
+    {
+      "company": "Brinquedoteca Ninnolare",
+      "position": "Supervisora Infantil e Atendente",
+      "website": "https://ninnolarebrinquedoteca.blogspot.com.br/",
+      "startDate": "2008-01-01",
+      "endDate": "2009-03-31",
+      "summary": "Responsável pelas crianças em estadia e organização de atividades lúdicas.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Uniderp - Univ. para o Desenvolvimento do Est. e da Reg. do Pantanal, Campo Grande - MS",
+      "area": "Direito",
+      "studyType": "Bacharelado",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "SENAC, Campo Grande - MS",
+      "area": "Moda",
+      "studyType": "Curso",
+      "startDate": "2009-03-01",
+      "endDate": "2009-04-30",
+      "gpa": "",
+      "courses": [
+        "Conceitos de moda contemporânea",
+        "Macrotendências e Tendências",
+        "Criação de moda"
+      ]
+    },
+    {
+      "institution": "Inovare MS",
+      "area": "Programação",
+      "studyType": "Curso",
+      "startDate": "2016-02-01",
+      "endDate": "2016-06-30",
+      "gpa": "",
+      "courses": [
+        "Desenvolvimento de APPs em Android",
+        "Java para Web (HTM, CSS, Spring, Hibernate, JSF, JUnit)"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Pacote Office",
+      "level": "Avançado",
+      "keywords": [
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Maquiagem & Moda",
+      "level": "",
+      "keywords": [
+        "Aplicação de maquiagem",
+        "Utilização de produtos p/ maquiagem",
+        "Atenção a tendências e contexto de produção",
+        "Harmonização com estilos de cabelo",
+        "Técnicas de câmeras e iluminação"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglês",
+      "fluency": "Intermediário (7/10)"
+    },
+    {
+      "language": "Espanhol",
+      "fluency": "Básico (5/10)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Moda",
+      "keywords": []
+    },
+    {
+      "name": "Cultura Pop, Nerd & Geek",
+      "keywords": []
+    },
+    {
+      "name": "MMORPGs",
+      "keywords": []
+    },
+    {
+      "name": "Cultura Japonesa",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
